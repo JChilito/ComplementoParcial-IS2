@@ -1,0 +1,5 @@
+com\mycompany\ejercicioexamen\formapago\IMetodoPago.class
+com\mycompany\ejercicioexamen\Main.class
+com\mycompany\ejercicioexamen\pagos\TarjetaCredito.class
+com\mycompany\ejercicioexamen\pagos\TransferenciaBancaria.class
+com\mycompany\ejercicioexamen\pagos\PayPal.class
